@@ -38,7 +38,11 @@ For VSCoq, first install CoqIDE to your computer. Then go to Visual Studio Code,
 #### Programming Environment
 You should use Emacs for Coq. This means you will have to install *Proof General* as well. Installing OPAM is a complicated process, even harder if your OS is Windows. *VSCoq* is not very reliable, but if you just want to take a quick look at Coq then it works (no pun intended). Emacs has a high learning curve, but so is Coq. 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69715622/155843937-cef2e03c-a12e-4557-a743-4b984aee2409.png" width="25%" height="25%" />
+  <img src="https://user-images.githubusercontent.com/69715622/155851692-a4e2b45a-2a5f-4a63-9b6f-e20772bcd49a.png" />
+ </p>
+<p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/69715622/155843937-cef2e03c-a12e-4557-a743-4b984aee2409.png" width="35%" height="35%" />
 </p>
 <p align="center">
 It appears to me that whoever is behind Proof General<br> is a weaboo as well. And no, I am <a href="https://github.com/yoshihiro503/generaltan">not <a href="http://proofcafe.org/wiki/Generaltan">joking</a>.<br> You can call her <a href="https://youzicha.tumblr.com/post/145836286669/in-lastest-version-of-proof-general-the-mascot-is">じぇねらるたん!</a>.
