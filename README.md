@@ -58,7 +58,7 @@ This is where things start to get strange. First try Run, then Run Without Debug
   <img src="https://user-images.githubusercontent.com/69715622/155844606-ec78a10b-4548-43e9-a6dd-835aab646203.JPG" />
 </p>
 
-And if you try to find a Coq debugger, no extensions will be found. So how do we run the program? 
+And if you try to find a Coq debugger, no extension will be found. So how do we run the program? 
 Click at the beginning of the first line, then press Alt + Down. A new window called ProofView will pop up on the right-hand side. 
 The pointer on the left is your debugger.
 
