@@ -41,7 +41,7 @@ You should use Emacs for Coq. This means you will have to install *Proof General
   <img src="https://user-images.githubusercontent.com/69715622/155843937-cef2e03c-a12e-4557-a743-4b984aee2409.png" width="25%" height="25%" />
 </p>
 <p align="center">
-It appears to me that whoever is behind Proof General<br> is a weaboo as well. And no, I am <a href="https://github.com/yoshihiro503/generaltan">not <a href="http://proofcafe.org/wiki/Generaltan">joking</a>.<br> You can call her Proof General tan.
+It appears to me that whoever is behind Proof General<br> is a weaboo as well. And no, I am <a href="https://github.com/yoshihiro503/generaltan">not <a href="http://proofcafe.org/wiki/Generaltan">joking</a>.<br> You can call her <a href="https://youzicha.tumblr.com/post/145836286669/in-lastest-version-of-proof-general-the-mascot-is">じぇねらるたん!</a>.
 </p>
 
 #### Running Coq
