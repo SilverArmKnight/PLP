@@ -15,7 +15,7 @@ Coq, first released in 1989, is a programming language generally attributed to T
 
 ## Why use Coq?
 
-Coq has a very limited usage, mostly to verify the correctness of mathematical proofs. Some application includes proving the Four Color Theorem (2005) and creating CompCert (a C language compiler). In general, most mathematicians have never heard of proof assistants, let alone use them in their work. It is neither as mainstream nor useful as LaTex. That said, this may change in the future.
+Coq has a very limited usage, mostly to verify the correctness of mathematical proofs. Some application includes proving the Four Color Theorem (2005) and creating CompCert (a C language compiler). [Some madlads are also trying to rewrite and check the correctness of Principia Mathematica as well](https://www.principiarewrite.com/). In general, most mathematicians have never heard of proof assistants, let alone use them in their work. It is neither as mainstream nor useful as LaTex. That said, this may change in the future.
 
 ## Resources to learn Coq
 - [Coq's Documentation](https://coq.inria.fr/distrib/current/refman/index.html)
