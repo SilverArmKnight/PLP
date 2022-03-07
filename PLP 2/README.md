@@ -64,5 +64,5 @@ Check (mult 3 (-45)%Z).
 ## References
 <ul>
   <li> [1] <a href="url">https://coq.inria.fr/refman/language/core/basic.html#syntax-and-lexical-conventions</a></li>
-  <li> [2] Pierre Castéran, Yves Bertot. Interactive theorem proving and program development. Coq'Art: The Calculus of inductive constructions.. Springer Verlag, pp.470, 2004, Texts in Theoretical Computer Science. ⟨hal-00344237⟩</li>
+  <li> [2] Pierre Castéran, Yves Bertot. Interactive theorem proving and program development. Coq'Art: The Calculus of inductive constructions.. Springer Verlag, pp.2, 2004, Texts in Theoretical Computer Science.</li>
 </ul>
