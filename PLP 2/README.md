@@ -50,7 +50,7 @@ Print Scope Z_scope.
 
 Coq has a property called *strong normalization*, meaning computation will always terminate. 
 However, in order for a programming language to describe all computable functions, it must also describe functions that do not terminate.
-What this means is that there are some computable functions Coq can describe but cannot perform. However, Coq can still describe every computable functions [2].
+What this means is that there are some computable functions Coq can describe but cannot perform. However, Coq can still perform every computable functions [2].
 
 ## Built-in Complex Data Types
 
