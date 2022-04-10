@@ -1,6 +1,6 @@
 # PLP 4: Loops and Subroutines
 
-## On different types of loops
+## On Different Types of Loops
 
 We are aware that it is possible to implement While loop in Coq. However, I was unabled to implement it on my Emacs for unknown reasons.
 The series of books by University of Pennsylvania called Software Foundaions does have a guide on While loop. It is located in Volume 1, on Simple Imperative Programs. [1]
