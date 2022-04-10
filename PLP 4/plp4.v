@@ -4,14 +4,6 @@
 
 https://softwarefoundations.cis.upenn.edu/lf-current/Imp.html#dfe50505b2b595242030c436d0d7d15f *)
 
-Definition fact_in_coq : com :=
-  Z ::= X;;
-  Y ::= 1;;
-  WHILE ~(Z = 0) DO
-    Y ::= Y × Z;;
-    Z ::= Z - 1
-  END.
-
 (* Function that takes in two numbers, multiplies them, and returns the output. *)
 
 Definition multiplyTwoNumbers (x y : nat) : nat := x * y.
